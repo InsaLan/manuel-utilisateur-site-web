@@ -40,5 +40,6 @@ Les contenus définis sur le site actuellement sont les suivants:
 - __informations__: Contenu à afficher sur la page information (route `/info`)
 - __contact__: Contenu à afficher sur la page information, à la suite de la carte d'accès (route `/info`)
 - __cgu__:  Contenu à afficher sur la page "Conditions Générales d'Utilisation" (route `/cgu`)
+- __association__: Contenu à afficher sur la page "Association" (route `/association`)
 
 
