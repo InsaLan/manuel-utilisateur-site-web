@@ -1,15 +1,11 @@
 # Summary
 
 - [Introduction](./Introduction.md)
-- [Contenu](./global/Contenu.md)
 - [Joueurs](./joueurs/Introduction.md)
     - [Inscription](./joueurs/Inscription.md)
     - [Paiement](./joueurs/Paiement.md)
 - [Équipe Tournois](./tournois/Introduction.md)
     - [Organisation](./tournois/Organisation.md)
-    - [Événement](./tournois/Evenement.md)
-    - [Tournois](./tournois/Tournois.md)
-    - [Équipes](./tournois/Equipes.md)
     - [Matchs](./tournois/Matchs.md)
 - [Équipe Bouffe](./bouffe/Introduction.md)
     - [Préparation](./bouffe/Preparation.md)
@@ -19,3 +15,5 @@
     - [Liste](./partenariat/Liste.md)
 - [Bureau](./bureau/Introduction.md)
     - [Utilisateurs](./bureau/Utilisateurs.md)
+    - [Contenu](./bureau/Contenu.md)
+    - [Accueil](./bureau/Accueil.md)

@@ -50,6 +50,16 @@ Vous pouvez également être membre d'une (ou plusieurs !) des équipes suivante
 Toute membre de l'association n'étant pas dans une des équipes citées ci-dessus
 ne possède que le status de **membre**.
 
+## Créneaux
+
+En fonction de vos créneau lors de le LAN, vous pouvez être amené à devoir
+utiliser certaines fonctionnalitées du site. Afin de ne pas être perdu, voici
+les chapitres dont la lecture est recommandée en fonction de votre créneau:
+- **Créneau accueil**: la page [Accueil](./bureau/Accueil.md) explique
+  l'utilisation du logiciel de scan des tickets.
+- **Créneau bouffe**: la page [Créneau](./bouffe/Creneau.md) explique comment
+  prendre les commandes de pizza et ce qu'il faut savoir.
+
 ## Fonctionnalités
 
 La lecture des parties hors équipes de cette documentation est recommandée pour
