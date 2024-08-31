@@ -10,7 +10,6 @@
 - [Équipe Bouffe](./bouffe/Introduction.md)
     - [Préparation](./bouffe/Preparation.md)
     - [Créneau](./bouffe/Creneau.md)
-    - [Vérification](./bouffe/Verification.md)
 - [Équipe partenariat](./partenariat/Introduction.md)
 - [Bureau](./bureau/Introduction.md)
     - [Utilisateurs](./bureau/Utilisateurs.md)

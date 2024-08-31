@@ -9,3 +9,7 @@ savoir.
 Le chapitre [Joueur](../joueurs/Introduction.md) peut également vous être utile
 pour comprendre le fonctionnement du site du point de vue des joueurs pour les
 aider en cas de problème.
+
+<p align="center">
+  <img src="../assets/images/tournois.png" />
+</p>
