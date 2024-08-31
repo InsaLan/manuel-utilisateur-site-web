@@ -12,7 +12,6 @@
     - [Créneau](./bouffe/Creneau.md)
     - [Vérification](./bouffe/Verification.md)
 - [Équipe partenariat](./partenariat/Introduction.md)
-    - [Liste](./partenariat/Liste.md)
 - [Bureau](./bureau/Introduction.md)
     - [Utilisateurs](./bureau/Utilisateurs.md)
     - [Contenu](./bureau/Contenu.md)
