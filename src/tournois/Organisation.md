@@ -29,7 +29,7 @@ admin. Pour en créer un nouveau, il suffit de cliquer sur le bouton "Ajouter
 événement" en haut à droite de la page. Un certain nombre d'information vous
 sera demandé.
 
-Parmis ces informations, certaines ont besoin d'explications : 
+Parmis ces informations, certaines ont besoin d'explications :
 - Le champ "En cours" permet de définir si l'événement est actif ou non. Si
   l'événement est actif, les tournois associés seront affichés sur la page
   d'accueil du site en tant qu'événement courant. Sinon, il sera accessible dans
@@ -68,7 +68,7 @@ quelques informations à savoir sur les tournois.
 
 Un événement non annoncé apparaîtra sous forme d'un point d'interrogation sur la
 page d'accueil du site. Aucun détail ne sera affiché et il ne sera pas possible
-de s'inscrire. 
+de s'inscrire.
 
 La description d'un tournois peut contenir du markdown, un format de texte qui
 permet de mettre en forme le texte. Vous pouvez trouver plus d'informations sur
@@ -130,7 +130,7 @@ reste votre meilleur ami.
 
 ![team](../assets/images/team.png)
 
-### Equipes
+### Équipes
 
 Vous pouvez comme d'habitude lister les équipes sur la bonne page et les éditer
 en cliquant sur leur numéro. Vous pouvez modifier un certain nombre
@@ -145,7 +145,7 @@ cela, il suffit de cliquer sur le formulaire dans le champ "Mot de passe" et de
 le modifier. Vous ne pouvez pas récupérer un mot de passe perdu, seulement le
 changer.
 
-### Inscription de joueur
+### Inscription de joueur
 
 Une inscription de joueur contient plusieurs informations : le status du
 paiement, son ticket d'entrée mais surtout son pseudo.
