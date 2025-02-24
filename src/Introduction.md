@@ -6,7 +6,7 @@ tournois, les partenariats et les informations de l'association de manière
 centralisée et simple.
 
 Si à la lecture de ce document vous avez des questions ou des propositions
-d'améliorations, n'hésitez pas à contacter le responsable dev actuel. 
+d'améliorations, n'hésitez pas à contacter le responsable dev actuel.
 
 ## Gestion de compte
 
@@ -31,19 +31,20 @@ disponibles sont les suivants:
 - **Joueur**: Un joueur est une personne inscrite sur le site. Il ne possède pas
   de droits particuliers.
 - **Membre**: Un membre est une personne faisant partie de l'association. Il
-  possède les droits d'accès au **panel Admin** du site mais ne rien y faire.
+  possède les droits d'accès au **panel Admin** du site mais ne peut rien y
+  faire.
 - **Admin**: Un admin est une personne faisant partie de l'équipe dev ou du
   bureau de l'association. Il possède un accès en lecture et écriture à
   l'ensemble du site.
 
 Vous pouvez également être membre d'une (ou plusieurs !) des équipes suivantes:
-- **Equipe Tournois**: Un membre de l'équipe tournois est une personne faisant
+- **Équipe Tournois**: Un membre de l'équipe tournois est une personne faisant
   partie de l'équipe tournois. Il possède un accès en lecture et écriture à la
   gestion des tournois.
-- **Equipe Bouffe**: Un membre de l'équipe bouffe est une personne faisant
+- **Équipe Bouffe**: Un membre de l'équipe bouffe est une personne faisant
   partie de l'équipe bouffe. Il possède un accès en lecture et écriture à la
   gestion de la bouffe.
-- **Equipe Partos**: Un membre de l'équipe partenariat est une personne faisant
+- **Équipe Partos**: Un membre de l'équipe partenariat est une personne faisant
   partie de l'équipe partenariat. Il possède un accès en lecture et écriture à
   la gestion des partenariats.
 
