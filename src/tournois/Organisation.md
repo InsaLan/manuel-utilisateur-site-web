@@ -172,6 +172,20 @@ le pseudo en moins. ça casse pas 3 pattes à un canard.
 
 Et là vous vous dites "Mais ! C'est déjà super long comme documentation ! J'ai une game de lol à lancer moi !". Du coup je vais pas trop vous embêter plus longtemps. Juste un dernier petit détail.
 
+### Validation des pseudos
+
+Afin de faciliter votre traval, certains jeux possèdent une validation automatique des pseudos. Cela permet de vérifier que le pseudo renseigné par le joueur existe bien sur la plateforme concernée. Par exemple, pour un tournoi de League of Legends, le pseudo sera vérifié sur les serveurs de Riot Games. Si le pseudo n'existe pas, une erreur sera affichée lors de l'inscription.
+
+Pour paramétrer cette validation, il suffit de se rendre sur la page d'édition du jeu concerné et de choisir le type de validation approprié dans le menu déroulant. Si vous voulez ajouter un nouveau type de validation, contactez l'équipe dev pour qu'ils puissent l'implémenter.
+
+![Validation des pseudos admin](../assets/images/name_validator.png)
+
+Sur certains jeux, il est possible que le pseudo spécifié à l'inscription puisse changer avant le début du tournoi. Dans ce cas, il est possible de forcer une nouvelle validation des pseudos pour tous les joueurs inscrits à un tournoi. Vous pouvez le faire au cas par cas en allant sur la page d'édition de l'inscription du joueur et en cliquant sur le bouton "Revalider le pseudo". Vous pouvez aussi le faire en masse pour tous les joueurs inscrits à un tournoi en allant sur la page de l'inscription et en cliquant sur le bouton "Mettre à jour le pseudo en jeu".
+
+Vous pouvez aussi choisir de revalider les pseudos de tous les joueurs inscrits à un tournoi en sélectionnant un tournoi dans la liste des tournois et en utilisant l'action "Mettre à jours les pseudos".
+
+![Revalidation des pseudos tournois](../assets/images/tournament_name_update.png)
+
 ## Casters
 
 Les casters sont des personnes qui commentent les matchs en direct. Je vous apprend pas grand chose là dessus. Pour les ajouter, il suffit de se rendre sur la [page correspondante](https://api.insalan.fr/v1/admin/tournament/caster/) et de cliquer sur "Ajouter caster". Vous aurez besoin de leur pseudo, d'une image (format webp, carré) et d'un lien vers leur profil twitch.
